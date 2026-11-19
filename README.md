@@ -1,2 +1,2 @@
-# firstdemorepo
+# first-demorepo
 demorepo
